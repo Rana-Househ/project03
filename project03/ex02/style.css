@@ -1,0 +1,23 @@
+body {
+font-family: Arial, sans-serif;
+text-align: center;
+padding-top: 50px;
+}
+
+h1 {
+color: black;
+}
+
+.description {
+color: gray;
+}
+
+button {
+padding: 10px 20px;
+cursor: pointer;
+}
+
+.active {
+color: green;
+font-weight: bold;
+}
